@@ -1,16 +1,35 @@
-# praja
+# Pra Já
 
-A new Flutter project.
+## Sobre o Projeto
 
-## Getting Started
+O **Pra Já** é uma plataforma para oferta e contratação de serviços, desenvolvida com foco em agilidade, organização e boas práticas de arquitetura de software.
 
-This project is a starting point for a Flutter application.
+## Processo de Desenvolvimento
 
-A few resources to get you started if this is your first Flutter project:
+O projeto foi desenvolvido utilizando a **IDE Cursor**, com apoio do **Composer 2.5** durante a fase inicial de planejamento e do **GPT-5.5** em partes da implementação.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Foi utilizada a metodologia **GSD (Goal-Structured Development)**, na qual cada funcionalidade foi dividida em **três fases**, cada uma com objetivos e entregas bem definidos. Essa abordagem permitiu um desenvolvimento mais organizado, com documentação consistente ao longo de todo o processo.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologias Utilizadas
+
+* Flutter
+* Clean Architecture
+* Cursor IDE
+* Composer 2.5
+* GPT-5.5
+
+## Tempo e Custo de Desenvolvimento
+
+* Tempo total de desenvolvimento: aproximadamente **2 horas**
+* Consumo estimado: **US$ 12 em tokens**, além dos custos relacionados aos testes e validações
+
+## Requisitos Implementados
+
+* Estrutura baseada em Clean Architecture
+* Banco de dados previamente populado com dados de exemplo
+* Funcionalidades completas para oferta e contratação de serviços
+* Documentação gerada para cada fase do desenvolvimento
+
+## Resultados
+
+Todas as funcionalidades foram implementadas com sucesso e não houve necessidade de ajustes manuais após a geração inicial do código. A utilização da metodologia GSD contribuiu para a criação de uma documentação sólida e detalhada, garantindo rastreabilidade e clareza durante todo o ciclo de desenvolvimento.
